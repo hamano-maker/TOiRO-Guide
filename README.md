@@ -5,6 +5,7 @@
 データベース設計、ER図、テーブル定義書の作成はガイド会社だけでなく全般担当しました。  
 ・*テーブル定義書*[テーブル定義書.zip](https://github.com/hamano-maker/TOiRO-Guide/files/10204183/-20221212T025351Z-001.zip)  
 ・*データベース設計*![DB設計](https://github.com/hamano-maker/TOiRO-Guide/files/10204275/-.DB.pdf)  
+  
 ・ER図
 ![er図](https://user-images.githubusercontent.com/120231261/206952815-1a355be8-bedb-4aea-8b6e-b1ea3ca37069.png)  
 
